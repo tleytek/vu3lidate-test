@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    Vue 3 + Vuelidate 2 (Using Composition API)
     <input type="text" v-model="input" />
     <div>{{ input }} Without useVuelidate</div>
   </div>
